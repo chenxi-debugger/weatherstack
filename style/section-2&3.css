@@ -1,0 +1,108 @@
+.section-2{
+    display: flex;
+    justify-content: center;
+    background-color:rgb(239, 242, 245);
+    width: 100%;
+    height: 140px;
+    
+}
+
+.customer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 140px;
+    width: 1140px; 
+}
+
+.customers {
+    width: 1140px;
+    height: 140px;
+    margin-top: 25px;
+    list-style: none;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.customer-word{
+    display: inline-block;
+    width: 150px;
+    margin-left: -30px;
+}
+
+.section-2-deloitte{
+    height: 21px;
+    width: 150px;
+}
+.section-2-microsoft{
+    height: 30px;
+    width: 186px;
+}
+.section-2-warnerbros{
+    height: 50px;
+    width: 110px;
+}
+.section-2-wawa{
+    width: 131px;
+    height: 40px;
+}
+.section-2-schneider{
+    height: 35px;
+}
+.section-2-ericsson{
+    width: 112px;
+    height: 50px;
+}
+
+.section-3{
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+.section-3-features {
+    height:250px;
+    width: 1140px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color:rgb(239, 242, 245);
+}
+
+.section-3-feature-card {
+    border-top: 30px;
+    height: 180px;
+    background-color: rgb(232, 237, 243);
+    padding: 15px;
+    border-radius: 10px;
+    width: 220px;
+    text-align: left;
+}
+.section-3-feature-card h4{
+    font-size: 18xp;
+}
+.section-3-feature-card {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.section-3-feature-card h4 {
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
+.section-3-feature-card p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.cloud-icon{
+    height:30px;
+    width: 50px;
+}
+

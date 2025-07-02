@@ -1,0 +1,55 @@
+.pricing-7{
+    width: 100%;
+
+}
+.section-7-signup-container{
+    height: 117px;
+    width: 100%;
+    background: #eef2f5;
+    display: flex;
+    justify-content:center; 
+    margin-top: 15px;
+
+}
+
+.section-7-signup{
+    height: 130px;
+    width: 1140px;
+    display: flex;
+    justify-content:center;   
+    align-items: center;
+}
+.section-7-signup-text{
+    height: 50px;
+    width: 650px;
+    font-size: 17px;
+    line-height: 50px;
+    font-weight: 700;
+}
+.section-7-arrow {
+    height: 70px;
+    width: 30px;
+    font-size: 30px;
+    margin-top: 17px;
+    margin-right: 20px;
+    margin-left: -35px;
+}
+
+.section-7-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f47b21;
+    color: white;
+    border-radius: 4px;
+    width: 180px;
+    height: 50px;
+    border: none;
+    font-size: 16px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.section-7-button:hover{
+    text-decoration: underline;
+}

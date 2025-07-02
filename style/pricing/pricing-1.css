@@ -1,0 +1,81 @@
+.pricing-1{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 441px;
+    background-image: url('../../image/mountains.svg');
+    background-position: top;
+    background-color: rgba(24, 65, 87);
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+
+.pricing-container-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 1140px;
+    margin-top: -100px;
+
+}
+.pricing-container-1 h2{
+    color: white;
+    font-size: 32px;
+    font-weight: 400;
+}
+.button-container {
+    display: flex;
+    align-items: center;
+    position: relative;
+    margin-top: 20px;
+}
+.billing-button {
+    height: 40px;
+    width: 150px;
+    border: none;
+    padding: 10px 20px 10px 10px;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+#monthlyBilling{
+    border-radius: 5px 0 0 5px;
+}
+
+#yearlyBilling{
+    border-radius: 0 5px 5px 0;
+}
+.billing-button.active {
+    background-color: #15394c; 
+    color: white;
+}
+.billing-button.active .check-icon {
+    fill: white; 
+}
+.check-icon {
+    width: 22px; 
+    height: 22px;
+    fill: #15394c; /* Default icon color */
+    margin-right: 10px;
+}
+.discount-button {
+    height: 24px;
+    width: 118px;
+    font-size: 11px;
+    white-space: nowrap;
+    line-height: 24px;
+    background-color: #8a9bae; 
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer; 
+    position:absolute;
+    right:-15px;
+    top:-18px;
+}
+.discount-button.green {
+    background-color: #47c652; 
+}

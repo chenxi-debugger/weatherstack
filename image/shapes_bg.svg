@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="938px" viewBox="0 0 1440 938" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Path 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1440" height="938"></rect>
+        <linearGradient x1="102.354814%" y1="19.5104602%" x2="70.8893414%" y2="52.2769357%" id="linearGradient-3">
+            <stop stop-color="#E9F1FE" offset="0%"></stop>
+            <stop stop-color="#F2F6FE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="17.3211035%" y1="20.2932671%" x2="73.4992411%" y2="76.7325508%" id="linearGradient-4">
+            <stop stop-color="#E8F0FF" offset="0%"></stop>
+            <stop stop-color="#F2F6FE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="designs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pricing" transform="translate(0.000000, -627.000000)">
+            <g id="hard-to-make-decision" transform="translate(0.000000, 627.000000)">
+                <g id="Path-2">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#F2F6FE" xlink:href="#path-1"></use>
+                    <path d="M-17.4421423,417.057507 L303.476145,617.810274 C333.822499,636.793657 345.804032,675.062448 331.701713,707.962215 L20.1266383,1434.84607 C4.32981193,1471.69901 -38.3512579,1488.76836 -75.2041994,1472.97153 C-85.0387147,1468.75602 -93.8198541,1462.41879 -100.919231,1454.41335 L-469.717343,1038.54695 C-492.036447,1013.37934 -494.14378,976.175949 -474.809486,948.648946 L-115.354585,436.87873 C-93.1729782,405.297895 -50.160229,396.59047 -17.4421423,417.057507 Z" fill="url(#linearGradient-3)" mask="url(#mask-2)"></path>
+                    <path d="M1532.55786,295.057507 L1853.47614,495.810274 C1883.8225,514.793657 1895.80403,553.062448 1881.70171,585.962215 L1570.12664,1312.84607 C1554.32981,1349.69901 1511.64874,1366.76836 1474.7958,1350.97153 C1464.96129,1346.75602 1456.18015,1340.41879 1449.08077,1332.41335 L1080.28266,916.546947 C1057.96355,891.379341 1055.85622,854.175949 1075.19051,826.648946 L1434.64541,314.87873 C1456.82702,283.297895 1499.83977,274.59047 1532.55786,295.057507 Z" fill="url(#linearGradient-4)" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

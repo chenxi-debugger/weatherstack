@@ -1,0 +1,163 @@
+
+.section-7 {
+    height: 700px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: -50px;
+}
+
+.section-7-container {
+    height:600px;
+    width: 1140px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.section-7 h2 {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.section-7 p {
+    font-size: 23px;
+    font-weight: 300;
+    text-align: center;
+    margin-top: 2px;
+}
+
+
+.section-7-logos {
+    list-style: none;
+    display: flex;
+    justify-content: left;
+    flex-wrap: wrap;
+    height: 229px;
+    width: 1140px;
+    gap:11px;
+    margin-top: 30px;
+    padding-left: 12px;
+}
+
+.section-7-logos li {
+    background-repeat: no-repeat;
+    background-position: center;  
+    padding: 15px;
+    border-radius: 5px;
+    display: flex;
+    height: 70px;
+}
+
+.daimler {
+    width: 220px;
+    background: #263e6a url(../image/client_white_daimler.svg);
+    background-size: 175px; 
+}
+
+.deloitte {
+    width: 220px;
+    background: #eef2f5 url(../image/client_deloitte.svg);
+    background-size: 175px;
+}
+
+.ericsson {
+    width: 110px;
+    background: #01275b url(../image/client_white_ericsson_2.svg);
+    background-size: 80px;
+}
+
+.microsoft {
+    width: 220px;
+    background: #eef2f5 url(../image/client_microsoft.svg);
+    background-size: 175px;
+}
+
+.schneider {
+    width: 150px;
+    background: #009e4d url(../image/client_white_schneider.svg);
+    background-size: 150px;
+}
+
+.warnerbros {
+    width: 160px;
+    background: #027ac2 url(../image/client_white_warnerbros.svg);
+    background-size: 65px;
+}
+
+.wawa {
+    width: 220px;
+    background: #ee2e25 url(../image/client_white_wawa.svg);
+    background-size: 110px;  
+}
+
+.canda {
+    width: 110px;
+    background: #eef2f5 url(../image/client_canda.svg);
+    background-size: 80px;}
+
+.mckinsey {
+    width: 230px;
+    background: #23477f url(../image/client_mckinsey.svg);
+    background-size: 250px;
+    background-position-x: 10px;
+}
+
+.rimowa {
+    width: 200px;
+    background: #eef2f5 url(../image/client_rimowa.svg);
+    background-size: 155px;
+}
+
+.section-7-signup-container{
+    height: 117px;
+    width: 100%;
+    background: #eef2f5;
+    display: flex;
+    justify-content:center; 
+    margin-top: -20px;  
+}
+
+.section-7-signup{
+    height: 130px;
+    width: 1140px;
+    display: flex;
+    justify-content:center;   
+    align-items: center;
+}
+.section-7-signup-text{
+    height: 50px;
+    width: 550px;
+    font-size: 17px;
+    line-height: 50px;
+    font-weight: 700;
+}
+.section-7-arrow {
+    height: 70px;
+    width: 30px;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-left: -5px;
+}
+
+.section-7-button {
+    display: block;
+    background-color: #f47b21;
+    color: white;
+    border-radius: 4px;
+    width: 180px;
+    height: 50px;
+    border: none;
+    font-size: 16px;
+    line-height: 50px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.section-7-button:hover{
+    text-decoration: underline;
+}

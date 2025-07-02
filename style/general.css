@@ -1,0 +1,30 @@
+
+@font-face {
+    font-family: 'FriendlyFont';
+    src: url('../font/FriendlyFont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PromoBold';
+    src: url('../font/Promo-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PromoMedium';
+    src: url('../font/Promo-Med.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'PromoMedium', sans-serif;
+    height:4200px;
+}
+.friendly{
+    font-family: 'FriendlyFont', sans-serif;
+}

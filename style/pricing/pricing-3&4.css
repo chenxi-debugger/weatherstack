@@ -1,0 +1,78 @@
+.section-2{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 140px;
+    margin-top: -70px;
+    
+}
+
+.customer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 140px;
+    width: 1140px; 
+}
+
+.customers {
+    width: 1140px;
+    height: 140px;
+    margin-top: 25px;
+    list-style: none;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.customer-word{
+    display: inline-block;
+    width: 150px;
+    margin-left: -30px;
+}
+
+.section-2-deloitte{
+    height: 21px;
+    width: 150px;
+}
+.section-2-microsoft{
+    height: 30px;
+    width: 186px;
+}
+.section-2-warnerbros{
+    height: 50px;
+    width: 110px;
+}
+.section-2-wawa{
+    width: 131px;
+    height: 40px;
+}
+.section-2-schneider{
+    height: 35px;
+}
+.section-2-ericsson{
+    width: 112px;
+    height: 50px;
+}
+
+.pricing-4{
+    height: 350px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background: #eff2f5;
+   
+}
+.pricing-4-container{
+    height: 300px;
+    width: 1000px;
+    background: url(../../image/world_map_vector_objects.svg);
+    background-position: center bottom;
+    background-position-y: 110px;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.pricing-4-container h4{
+    font-size: 25px;
+    margin-top: 50px;
+}
